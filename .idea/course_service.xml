@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CCProjectService">
+    <option name="course">
+      <Course>
+        <option name="authors">
+          <list>
+            <Author />
+          </list>
+        </option>
+        <option name="description" value="Introduction to the Pygame library" />
+        <option name="lessons">
+          <list>
+            <Lesson>
+              <option name="index" value="1" />
+              <option name="name" value="lesson1" />
+              <option name="taskList">
+                <list>
+                  <Task>
+                    <option name="index" value="1" />
+                    <option name="name" value="task1" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="hint" value="A common number of pixels for the width is 640" />
+                                    <option name="index" value="0" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="7" />
+                                    <option name="possibleAnswer" value="640" />
+                                    <option name="start" value="8" />
+                                    <option name="taskText" value="width in pixels" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="hint" value="A common number of pixels for height is 480" />
+                                    <option name="index" value="1" />
+                                    <option name="length" value="16" />
+                                    <option name="line" value="8" />
+                                    <option name="possibleAnswer" value="480" />
+                                    <option name="start" value="9" />
+                                    <option name="taskText" value="height in pixels" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                </list>
+              </option>
+            </Lesson>
+          </list>
+        </option>
+        <option name="name" value="Introduction to Pygame" />
+      </Course>
+    </option>
+  </component>
+</project>

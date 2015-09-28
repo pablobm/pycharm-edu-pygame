@@ -1,0 +1,39 @@
+{
+  "lessons": [
+    {
+      "title": "lesson1",
+      "task_list": [
+        {
+          "name": "task1",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 7,
+                  "start": 8,
+                  "hint": "A common number of pixels for the width is 640",
+                  "possible_answer": "640",
+                  "length": 15
+                },
+                {
+                  "line": 8,
+                  "start": 9,
+                  "hint": "A common number of pixels for height is 480",
+                  "possible_answer": "480",
+                  "length": 16
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "description": "Introduction to the Pygame library",
+  "name": "Introduction to Pygame",
+  "authors": [
+    {}
+  ],
+  "language": "Python"
+}
